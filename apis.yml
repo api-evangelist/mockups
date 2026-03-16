@@ -1,13 +1,20 @@
+aid: mockups
 name: Mockups
 description: Visual representations or prototypes of user interfaces and designs used
   to demonstrate the look and feel of a product before development. It is used across
   a range of industries and technical contexts to improve efficiency and outcomes.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 url: https://en.wikipedia.org/wiki/Mockup
 tags:
 - Design
 - Prototyping
 - UI/UX
 created: '2025'
-modified: '2025'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
 common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
